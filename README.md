@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Project
 > This file is used to explain how the run_analysis.r works:
 > 
-> At the very beginning Donwnload the data for the project from the link : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip(Human Activity Recognition Using Smartphones Data Set ) into the current working directory
+> At the very beginning Donwnload the data for the project from the link : https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip (Human Activity Recognition Using Smartphones Data Set ) into the current working directory
 > ,and then unzip the file to get the goal folder "UCI HAR Dataset"
 > 
 > There are five task we need to deal with:
