@@ -16,4 +16,4 @@
 >
 > 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 >
-> Some specific information is contained in the comments in the run_analysis.r or in the codebook.md.
+> Some specific information is contained in the comments in the run_analysis.r or in the CodeBook.md.
